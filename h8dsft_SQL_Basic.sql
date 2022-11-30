@@ -1,3 +1,5 @@
+--Non Graded Challenge 1
+
 --Create and add data to Teacher Table
 CREATE TABLE teachers (
     id SERIAL NOT NULL PRIMARY KEY ,
