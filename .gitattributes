@@ -1,4 +1,4 @@
-h8dsft_P0GC1_EvanDerinIhsanudin.csv filter=lfs diff=lfs merge=lfs -text
+“.csv” filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.sql filter=lfs diff=lfs merge=lfs -text
